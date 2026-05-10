@@ -62,7 +62,7 @@ class WelcomeScreen extends StatelessWidget {
                 Column(
                   children: [
                     Text(
-                      'waryaa',
+                      'Welcome Customer',
                       style: GoogleFonts.plusJakartaSans(
                         fontSize: 32,
                         fontWeight: FontWeight.bold,
